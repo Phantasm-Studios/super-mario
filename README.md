@@ -1,6 +1,7 @@
 # Super Mario Bros. in JavaScript
 
 Super Mario game in vanilla JavaScript 
+<img src="/ti.svg" />
 
 
 ## Running
